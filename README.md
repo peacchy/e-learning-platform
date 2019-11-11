@@ -1,2 +1,2 @@
-# e-learning-platform
-This is the rework of the Elearning engineer project.
+# e-learning platform
+This is the remake of the Elearning engineer project.
